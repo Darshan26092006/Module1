@@ -1,5 +1,7 @@
 # Datatypes-Character Literal in Python
 
+## NAME :Darshan V
+## REG NO:212224230050
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
@@ -9,15 +11,14 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-a='T'
+v='T'
 b='a'
-print(a)
+print(v)
 print(b)
 ```
 
-
 ## Output
-![image](https://github.com/user-attachments/assets/008aee7b-5734-44f8-93e0-f6abc63d58ed)
+![438638778-5c5c0e93-5ac7-445c-834d-d26398737ca7](https://github.com/user-attachments/assets/1e47325f-7662-4579-b3c1-2ec2835c552d)
 
 ## Result
-Thus the python program is executed successfully
+Thus, the program is executed sucessfully.
